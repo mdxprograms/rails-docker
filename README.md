@@ -1,4 +1,4 @@
-# docker boilerplate
+# Rails Docker Starter
 
 This uses `ruby: 2.4.0`, `rails: 5.*`, and `postgres`
 
